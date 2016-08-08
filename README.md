@@ -25,7 +25,7 @@ There are two components in this toolkit
 
 ### What kinda screening test can you create here?
 
-Just look at the example [puppet manifest](https://github.com/parolkar/automated_sysadmin_screen_test/blob/master/supervillain/puppet/modules/destructor/manifests/test_1.pp)   & [rspec tests](https://github.com/parolkar/automated_sysadmin_screen_test/blob/master/litmus/spec/problem_1_spec.rb). That will give you an idea about sort of challenges that can be provisioned.
+Just look at the example [puppet manifest](https://github.com/vishalud/automated_sysadmin_screen_test/blob/master/supervillain/puppet/modules/destructor/manifests/test_1.pp)   & [rspec tests](https://github.com/vishalud/automated_sysadmin_screen_test/blob/master/litmus/spec/problem_1_spec.rb). That will give you an idea about sort of challenges that can be provisioned.
 
 ### Want to give it a try?
 
