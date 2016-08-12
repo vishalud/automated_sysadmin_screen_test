@@ -3,11 +3,6 @@ Toolkit to help you screen sysadmin/devops candidates based on Rspec + Puppet
 
 ---------------------------------------------------------
 
-
-Are you hiring Administrators/Devops in your Ops team? Do you need a better way to shortlist applicants remotely and automatically? and you want to present realworld problems to applicant and not just theoretical questions? 
-
-**Automated SysAdmin Screen Test Toolkit (ASASTT)** allows you to write your interview test in **Rspec** and provision a problem environment using **Puppet** on your choice of hosting (local or AWS EC2). 
-
 ### How does it work?
 
 * You formulate a creative sysadmin problem with puppet & rspec (something that can be solved in short time frame (like 15 min))
